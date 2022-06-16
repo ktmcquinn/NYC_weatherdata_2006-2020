@@ -1,4 +1,4 @@
-Date,Day,Month,Year,Max,Avg,Min,Round Temp,Temp Normalized
+OCCUR_DATE,Day,Month,Year,Max,Avg,Min,Round Temp,Temp Normalized
 01/01/2006,1,1,2006,43,37.7,33,38,0.01415608
 01/02/2006,2,1,2006,46,42.2,39,42,0.018330309
 01/03/2006,3,1,2006,41,37.9,35,38,0.01415608
